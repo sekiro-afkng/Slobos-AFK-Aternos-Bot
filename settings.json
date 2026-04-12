@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Sekiro",
     "password": "",
-    "type": "microsoft"
+    "type": "mojang"
   },
   "server": {
     "ip": "mimans_01-j4hR.aternos.me",
@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
