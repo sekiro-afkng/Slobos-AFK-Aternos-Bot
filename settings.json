@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Sekiro",
     "password": "",
-    "type": "mojang"
+    "type": "microsoft"
   },
   "server": {
     "ip": "mimans_01-j4hR.aternos.me",
